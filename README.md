@@ -1,16 +1,18 @@
 Hey 👋  
-I'm a software engineer focused on backend systems, distributed architectures, and cloud-based applications.
+I'm a software engineer focused on building scalable backend systems and cloud-based applications, while also creating clean and performant frontend interfaces.
 
-I design and build scalable services, APIs, and async processing systems, while also working with frontend interfaces when needed.
+I enjoy designing reliable services, APIs, and asynchronous systems, and thinking about how software evolves as it grows in complexity and scale.
 
 My core tools:
 
-Backend: Go, Node.js  
-Frontend: React, Tailwind CSS  
-Cloud: AWS  
-DevOps: Docker, CI/CD  
-Databases: PostgreSQL, MongoDB
+Backend (Primary): Go, Node.js  
+Frontend: React (component architecture, responsive UI, performance)  
+Cloud & DevOps: AWS, Docker, CI/CD  
+Databases: PostgreSQL
 
-I’m especially interested in system design, performance, and building infrastructure that remains reliable as systems scale.
+I'm particularly interested in:
+- System design and distributed architectures
+- Performance and scalability
+- Writing maintainable code for long-lived systems
 
-Some of my favorite projects are pinned below.
+You'll find some of my favorite projects pinned below.
