@@ -11,7 +11,7 @@ I design reliable services, APIs, and asynchronous systems, and enjoy thinking a
 **Backend (Primary):** Go, Node.js  
 **Frontend:** React (component architecture, responsive UI, performance)  
 **Cloud & DevOps:** AWS, Docker, CI/CD  
-**Databases:** PostgreSQL
+**Databases:** PostgreSQL, MongoDB
 
 ---
 
