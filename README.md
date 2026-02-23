@@ -1,50 +1,16 @@
-# Machar
-### Full-Stack Software Engineer | Cloud-Native Systems
+# Hey 👋
 
-I build scalable full-stack and cloud-native applications.
-I develop backend services with Golang & Node.js, craft frontend interfaces with React, and deploy production systems on AWS.
+I'm a software engineer building scalable web applications and cloud-based systems.
 
----
+I work across the stack — designing backend services, building clean frontend interfaces, and deploying production systems to the cloud.
 
-## 🛠 Tech Stack
+My core tools are:
+- Backend: Go, Node.js
+- Frontend: React
+- Cloud: AWS
+- DevOps: Docker & CI/CD
+- Databases: PostgreSQL
 
-### Backend
-- Golang
-- Node.js
-- REST APIs
-- Microservices
+I enjoy thinking about system design, performance, and writing code that stays maintainable as it grows.
 
-### Frontend
-- React.js
-- Tailwind CSS
-
-### Cloud & DevOps
-- AWS (EC2, S3, RDS)
-- Docker
-- Kubernetes
-- CI/CD
-
-### Messaging & Databases
-- Kafka
-- RabbitMQ
-- PostgreSQL
-- MySQL
-- MongoDB
-
----
-
-## 🏆 Highlights
-
-- 🥇 Multiple Hackathon Winner — Built and shipped working solutions under tight deadlines
-- 🚀 Co-founder of Crackmode — A LeetCode & DSA community with 600+ members
-- 📈 Strong foundation in data structures, algorithms, and scalable system design
-
----
-
-## 🧠 Engineering Mindset
-
-Curiosity drives my work. I focus on understanding the “why” behind systems — designing scalable architectures, writing clean code, and building solutions that last.
-
----
-
-📫 Open to collaborating on backend, full-stack, and cloud engineering projects.
+You'll find some of my favorite projects pinned below.
