@@ -1,16 +1,50 @@
-## Hi there 👋
+# Machar
+### Full-Stack Software Engineer | Cloud-Native Systems
 
-<!--
-**Philip-Machar/Philip-Machar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build scalable full-stack and cloud-native applications.
+I develop backend services with Golang & Node.js, craft frontend interfaces with React, and deploy production systems on AWS.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+### Backend
+- Golang
+- Node.js
+- REST APIs
+- Microservices
+
+### Frontend
+- React.js
+- Tailwind CSS
+
+### Cloud & DevOps
+- AWS (EC2, S3, RDS)
+- Docker
+- Kubernetes
+- CI/CD
+
+### Messaging & Databases
+- Kafka
+- RabbitMQ
+- PostgreSQL
+- MySQL
+- MongoDB
+
+---
+
+## 🏆 Highlights
+
+- 🥇 Multiple Hackathon Winner — Built and shipped working solutions under tight deadlines
+- 🚀 Co-founder of Crackmode — A LeetCode & DSA community with 600+ members
+- 📈 Strong foundation in data structures, algorithms, and scalable system design
+
+---
+
+## 🧠 Engineering Mindset
+
+Curiosity drives my work. I focus on understanding the “why” behind systems — designing scalable architectures, writing clean code, and building solutions that last.
+
+---
+
+📫 Open to collaborating on backend, full-stack, and cloud engineering projects.
