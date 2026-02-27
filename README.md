@@ -17,4 +17,9 @@ I design reliable services, APIs, and asynchronous systems, and enjoy thinking a
 - Performance and scalability  
 - Writing maintainable code for long-lived systems  
 
+## Contact
+
+- Email: philipmachar788@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/philip-machar/ 
+
 You'll find some of my favorite projects pinned below.
