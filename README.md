@@ -1,6 +1,6 @@
 ## Hey 👋
 
-I'm a software engineer focused on building scalable backend systems and cloud-based applications, while also creating clean and performant frontend interfaces.
+I'm a software engineer based in Nairobi, Kenya, focused on building scalable backend systems and cloud-based applications, while also creating clean and performant frontend interfaces.
 
 ## Tech Stack
 
