@@ -1,26 +1,23 @@
-## Hey, I'm Philip 👋
+## Hey 👋
 
-I build backend systems that hold up under pressure — distributed architectures, high-throughput APIs, and infrastructure that doesn't page you at 3am. I also care about the frontend side of things: clean interfaces that are fast, accessible, and don't make users think too hard.
+I'm a software engineer based in Nairobi, Kenya, focused on building scalable backend systems and cloud-based applications, while also creating clean and performant frontend interfaces.
 
-Based in Nairobi, Kenya. Currently obsessed with Go and how far you can push a well-designed system before it complains.
+## Tech Stack
 
-## What I Work With
-
-**Backend:** Go, Node.js, REST APIs, gRPC, Microservices, Kafka, RabbitMQ  
+**Backend:** Go (Golang), Node.js, REST APIs, gRPC, Microservices, Kafka, RabbitMQ  
 **Frontend:** React.js, Tailwind CSS  
 **Cloud & DevOps:** AWS (EC2, S3, RDS), Docker, Kubernetes, Nginx, CI/CD  
 **Databases:** PostgreSQL, MongoDB  
 
-## What I Think About
+## Interests
 
-- Why most systems fail at scale — and how to design them so they don't
-- The tradeoffs between consistency, availability, and the real world
-- Building UIs that feel effortless, because someone thought hard about performance
-- Writing code that the next engineer (or future me) won't curse at
+- System design and distributed architectures  
+- Performance and scalability  
+- Writing maintainable code for long-lived systems  
 
-## Let's Connect
+## Contact
 
-- 📧 philipmachar788@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/philip-machar/)
+- Email: philipmachar788@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/philip-machar/  
 
-Open to interesting backend/infrastructure problems, frontend collaborations, open source projects, or just a good conversation about distributed systems.
+You'll find some of my favorite projects pinned below.
