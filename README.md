@@ -4,7 +4,7 @@ I'm a software engineer based in Nairobi, Kenya, focused on building scalable ba
 
 ## Tech Stack
 
-**Backend:** Go (Golang), Node.js, REST APIs, gRPC, Microservices, RabbitMQ  
+**Backend:** Go, Node.js, REST APIs, gRPC, Microservices, RabbitMQ  
 **Frontend:** React.js, Tailwind CSS  
 **Cloud & DevOps:** AWS (EC2, S3, RDS), Docker, Nginx, CI/CD  
 **Databases:** PostgreSQL, MongoDB  
